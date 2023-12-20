@@ -1,0 +1,3 @@
+john K7jH5pXrV3uQ9wF1 --> hash : $2y$10$1JRmUDf4upG3/VJYVd6mXeM6rvEl.Hvh5dZO5wXydYXIzY8/uiLk.
+
+mario A4sG8dR2vY6bE1pZ --> hash : $2y$10$raABFtz2aBgDm9VDK05Beu2Tv8TRq4oLfNruTQqzyX/az1UWHDSva
